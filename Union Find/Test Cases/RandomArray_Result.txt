@@ -1,0 +1,11 @@
+
+For Random Array
+InsertionSort: 10000: 78.9 millisecs
+SelectionSort: 10000: 65.2 millisecs
+InsertionSort: 20000: 295.7 millisecs
+SelectionSort: 20000: 258.1 millisecs
+InsertionSort: 40000: 1424.0 millisecs
+SelectionSort: 40000: 1167.3 millisecs
+InsertionSort: 80000: 6190.7 millisecs
+SelectionSort: 80000: 5150.7 millisecs
+

@@ -1,0 +1,66 @@
+cd C:\Users\Payal Zanwar\Documents\NetBeansProjects\INFO6205-master; "JAVA_HOME=C:\\Program Files\\Java\\jdk1.8.0_181" cmd /c "\"\"C:\\Program Files\\NetBeans 8.0.2\\java\\maven\\bin\\mvn.bat\" -Dexec.args=\"-classpath %classpath edu.neu.coe.info6205.util.Benchmark\" -Dexec.executable=\"C:\\Program Files\\Java\\jdk1.8.0_181\\bin\\java.exe\" -Dexec.classpathScope=runtime -Dmaven.ext.class.path=\"C:\\Program Files\\NetBeans 8.0.2\\java\\maven-nblib\\netbeans-eventspy.jar\" -Dfile.encoding=UTF-8 org.codehaus.mojo:exec-maven-plugin:1.2.1:exec\""
+Running NetBeans Compile On Save execution. Phase execution is skipped and output directories of dependency projects (with Compile on Save turned on) will be used instead of their jar artifacts.
+Scanning for projects...
+                                                                        
+------------------------------------------------------------------------
+Building INFO6205 1
+------------------------------------------------------------------------
+
+--- exec-maven-plugin:1.2.1:exec (default-cli) @ INFO6205 ---
+ Random array
+
+InsertionSort: 10000: 6.968663624E7 millisecs
+SelectionSort: 10000: 6.327015574E7 millisecs
+ Partially sorted array
+
+InsertionSort: 10000: 142306.27 millisecs
+SelectionSort: 10000: 1.8517002678E8 millisecs
+ Reverse sorted array
+
+InsertionSort: 10000: 2.0278574986E8 millisecs
+SelectionSort: 10000: 1.8661108177E8 millisecs
+ Sorted array
+
+InsertionSort: 10000: 41032.0 millisecs
+SelectionSort: 10000: 2.0563891327E8 millisecs
+ Random array
+
+InsertionSort: 20000: 7.3833753574E8 millisecs
+SelectionSort: 20000: 9.795609545E8 millisecs
+ Partially sorted array
+
+InsertionSort: 20000: 179076.76 millisecs
+SelectionSort: 20000: 1.42563220485E9 millisecs
+ Reverse sorted array
+
+InsertionSort: 20000: 1.72859146436E9 millisecs
+SelectionSort: 20000: 1.2309047602E9 millisecs
+ Sorted array
+
+InsertionSort: 20000: 104034.76 millisecs
+SelectionSort: 20000: 9.2256396023E8 millisecs
+ Random array
+
+InsertionSort: 40000: 3.57045803983E9 millisecs
+SelectionSort: 40000: 5.89422794609E9 millisecs
+ Partially sorted array
+
+InsertionSort: 40000: 668062.83 millisecs
+SelectionSort: 40000: 6.31531663066E9 millisecs
+ Reverse sorted array
+
+InsertionSort: 40000: 6.96019373253E9 millisecs
+SelectionSort: 40000: 4.91918630497E9 millisecs
+ Sorted array
+
+InsertionSort: 40000: 368979.55 millisecs
+SelectionSort: 40000: 4.21331010831E9 millisecs
+ 
+------------------------------------------------------------------------
+BUILD SUCCESS
+------------------------------------------------------------------------
+Total time: 5:42.233s
+Finished at: Wed Oct 10 01:40:14 EDT 2018
+Final Memory: 5M/243M
+------------------------------------------------------------------------
+	

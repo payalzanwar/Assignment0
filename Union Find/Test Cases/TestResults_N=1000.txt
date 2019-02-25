@@ -1,0 +1,96 @@
+cd C:\Users\Payal Zanwar\Documents\NetBeansProjects\INFO6205-master; "JAVA_HOME=C:\\Program Files\\Java\\jdk1.8.0_181" cmd /c "\"\"C:\\Program Files\\NetBeans 8.0.2\\java\\maven\\bin\\mvn.bat\" -Dexec.args=\"-classpath %classpath edu.neu.coe.info6205.util.Benchmark\" -Dexec.executable=\"C:\\Program Files\\Java\\jdk1.8.0_181\\bin\\java.exe\" -Dexec.classpathScope=runtime -Dmaven.ext.class.path=\"C:\\Program Files\\NetBeans 8.0.2\\java\\maven-nblib\\netbeans-eventspy.jar\" -Dfile.encoding=UTF-8 org.codehaus.mojo:exec-maven-plugin:1.2.1:exec\""
+Running NetBeans Compile On Save execution. Phase execution is skipped and output directories of dependency projects (with Compile on Save turned on) will be used instead of their jar artifacts.
+Scanning for projects...
+                                                                        
+------------------------------------------------------------------------
+Building INFO6205 1
+------------------------------------------------------------------------
+
+--- exec-maven-plugin:1.2.1:exec (default-cli) @ INFO6205 ---
+Random array
+
+InsertionSort: 1000: 1.0 millisecs
+SelectionSort: 1000: 0.96 millisecs
+Partially sorted array
+
+InsertionSort: 1000: 0.03 millisecs
+SelectionSort: 1000: 1.9 millisecs
+ Reverse sorted array
+
+InsertionSort: 1000: 1.69 millisecs
+SelectionSort: 1000: 1.8 millisecs
+ Sorted array
+
+InsertionSort: 1000: 0.0 millisecs
+SelectionSort: 1000: 1.88 millisecs
+ Random array
+
+InsertionSort: 2000: 3.2 millisecs
+SelectionSort: 2000: 7.35 millisecs
+ Partially sorted array
+
+InsertionSort: 2000: 0.01 millisecs
+SelectionSort: 2000: 7.34 millisecs
+ Reverse sorted array
+
+InsertionSort: 2000: 6.47 millisecs
+SelectionSort: 2000: 7.34 millisecs
+ Sorted array
+
+InsertionSort: 2000: 0.01 millisecs
+SelectionSort: 2000: 7.38 millisecs
+ Random array
+
+InsertionSort: 4000: 12.78 millisecs
+SelectionSort: 4000: 29.46 millisecs
+ Partially sorted array
+
+InsertionSort: 4000: 0.02 millisecs
+SelectionSort: 4000: 29.58 millisecs
+ Reverse sorted array
+
+InsertionSort: 4000: 26.27 millisecs
+SelectionSort: 4000: 29.36 millisecs
+ Sorted array
+
+InsertionSort: 4000: 0.01 millisecs
+SelectionSort: 4000: 29.24 millisecs
+ Random array
+
+InsertionSort: 8000: 52.33 millisecs
+SelectionSort: 8000: 117.59 millisecs
+ Partially sorted array
+
+InsertionSort: 8000: 0.07 millisecs
+SelectionSort: 8000: 117.09 millisecs
+ Reverse sorted array
+
+InsertionSort: 8000: 105.71 millisecs
+SelectionSort: 8000: 118.12 millisecs
+ Sorted array
+
+InsertionSort: 8000: 0.04 millisecs
+SelectionSort: 8000: 117.56 millisecs
+ Random array
+
+InsertionSort: 16000: 218.22 millisecs
+SelectionSort: 16000: 470.03 millisecs
+ Partially sorted array
+
+InsertionSort: 16000: 0.14 millisecs
+SelectionSort: 16000: 468.54 millisecs
+ Reverse sorted array
+
+InsertionSort: 16000: 473.99 millisecs
+SelectionSort: 16000: 475.16 millisecs
+ Sorted array
+
+InsertionSort: 16000: 0.11 millisecs
+SelectionSort: 16000: 476.54 millisecs
+------------------------------------------------------------------------
+BUILD SUCCESS
+------------------------------------------------------------------------
+Total time: 5:42.233s
+Finished at: Wed Oct 10 01:40:14 EDT 2018
+Final Memory: 5M/243M
+------------------------------------------------------------------------
