@@ -1,0 +1,359 @@
+cd C:\Users\Payal Zanwar\Documents\NetBeansProjects\INFO6205-master; "JAVA_HOME=C:\\Program Files\\Java\\jdk1.8.0_181" cmd /c "\"\"C:\\Program Files\\NetBeans 8.0.2\\java\\maven\\bin\\mvn.bat\" -Dexec.args=\"-classpath %classpath edu.neu.coe.info6205.union_find.UnionFind\" -Dexec.executable=\"C:\\Program Files\\Java\\jdk1.8.0_181\\bin\\java.exe\" -Dexec.classpathScope=runtime -Dmaven.ext.class.path=\"C:\\Program Files\\NetBeans 8.0.2\\java\\maven-nblib\\netbeans-eventspy.jar\" -Dfile.encoding=UTF-8 org.codehaus.mojo:exec-maven-plugin:1.2.1:exec\""
+Running NetBeans Compile On Save execution. Phase execution is skipped and output directories of dependency projects (with Compile on Save turned on) will be used instead of their jar artifacts.
+Scanning for projects...
+                                                                        
+------------------------------------------------------------------------
+Building INFO6205 1
+------------------------------------------------------------------------
+
+--- exec-maven-plugin:1.2.1:exec (default-cli) @ INFO6205 ---
+Enter no of sites
+100
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+Random Pair : (45,89)
+Random Pair : (28,57)
+Random Pair : (9,86)
+Random Pair : (34,45)
+Random Pair : (24,89)
+Random Pair : (24,45)
+Random Pair : (81,65)
+Random Pair : (90,78)
+Random Pair : (56,3)
+Random Pair : (83,18)
+Random Pair : (41,62)
+Random Pair : (73,39)
+Random Pair : (67,60)
+Random Pair : (78,12)
+Random Pair : (48,42)
+Random Pair : (90,45)
+Random Pair : (14,48)
+Random Pair : (52,30)
+Random Pair : (67,85)
+Random Pair : (67,89)
+Random Pair : (62,90)
+Random Pair : (97,31)
+Random Pair : (41,21)
+Random Pair : (27,14)
+Random Pair : (36,98)
+Random Pair : (96,89)
+Random Pair : (8,97)
+Random Pair : (60,84)
+Random Pair : (65,8)
+Random Pair : (46,58)
+Random Pair : (42,93)
+Random Pair : (45,97)
+Random Pair : (74,67)
+Random Pair : (48,1)
+Random Pair : (44,90)
+Random Pair : (33,41)
+Random Pair : (40,45)
+Random Pair : (15,79)
+Random Pair : (21,80)
+Random Pair : (85,79)
+Random Pair : (52,31)
+Random Pair : (27,72)
+Random Pair : (87,78)
+Random Pair : (89,39)
+Random Pair : (60,99)
+Random Pair : (55,73)
+Random Pair : (17,66)
+Random Pair : (3,55)
+Random Pair : (88,52)
+Random Pair : (35,84)
+Random Pair : (15,79)
+Random Pair : (62,4)
+Random Pair : (21,85)
+Random Pair : (10,53)
+Random Pair : (5,16)
+Random Pair : (80,76)
+Random Pair : (35,83)
+Random Pair : (21,60)
+Random Pair : (40,52)
+Random Pair : (63,96)
+Random Pair : (90,96)
+Random Pair : (75,30)
+Random Pair : (49,96)
+Random Pair : (27,84)
+Random Pair : (56,89)
+Random Pair : (5,17)
+Random Pair : (15,96)
+Random Pair : (30,94)
+Random Pair : (55,93)
+Random Pair : (53,57)
+Random Pair : (0,52)
+Random Pair : (33,25)
+Random Pair : (9,98)
+Random Pair : (41,15)
+Random Pair : (21,92)
+Random Pair : (50,44)
+Random Pair : (91,73)
+Random Pair : (61,31)
+Random Pair : (77,50)
+Random Pair : (18,38)
+Random Pair : (84,94)
+Random Pair : (62,83)
+Random Pair : (42,88)
+Random Pair : (21,7)
+Random Pair : (13,34)
+Random Pair : (24,20)
+Random Pair : (6,75)
+Random Pair : (79,39)
+Random Pair : (73,81)
+Random Pair : (3,52)
+Random Pair : (45,11)
+Random Pair : (12,63)
+Random Pair : (12,27)
+Random Pair : (22,75)
+Random Pair : (16,0)
+Random Pair : (47,72)
+Random Pair : (17,56)
+Random Pair : (62,61)
+Random Pair : (7,1)
+Random Pair : (0,5)
+Random Pair : (37,34)
+Random Pair : (79,57)
+Random Pair : (44,97)
+Random Pair : (28,83)
+Random Pair : (70,3)
+Random Pair : (21,81)
+Random Pair : (94,8)
+Random Pair : (92,38)
+Random Pair : (57,72)
+Random Pair : (69,82)
+Random Pair : (16,86)
+Random Pair : (75,6)
+Random Pair : (19,65)
+Random Pair : (99,9)
+Random Pair : (18,22)
+Random Pair : (12,6)
+Random Pair : (43,46)
+Random Pair : (73,31)
+Random Pair : (15,5)
+Random Pair : (50,32)
+Random Pair : (60,81)
+Random Pair : (36,65)
+Random Pair : (1,38)
+Random Pair : (78,58)
+Random Pair : (35,76)
+Random Pair : (85,96)
+Random Pair : (90,59)
+Random Pair : (87,23)
+Random Pair : (47,42)
+Random Pair : (7,91)
+Random Pair : (74,12)
+Random Pair : (41,83)
+Random Pair : (62,12)
+Random Pair : (98,48)
+Random Pair : (38,59)
+Random Pair : (51,8)
+Random Pair : (12,69)
+Random Pair : (92,66)
+Random Pair : (61,48)
+Random Pair : (23,47)
+Random Pair : (88,18)
+Random Pair : (27,32)
+Random Pair : (19,3)
+Random Pair : (75,63)
+Random Pair : (0,22)
+Random Pair : (35,60)
+Random Pair : (41,4)
+Random Pair : (71,65)
+Random Pair : (76,87)
+Random Pair : (35,65)
+Random Pair : (86,22)
+Random Pair : (59,46)
+Random Pair : (15,62)
+Random Pair : (9,1)
+Random Pair : (85,72)
+Random Pair : (60,47)
+Random Pair : (86,62)
+Random Pair : (35,27)
+Random Pair : (54,17)
+Random Pair : (35,95)
+Random Pair : (98,9)
+Random Pair : (14,50)
+Random Pair : (32,0)
+Random Pair : (75,91)
+Random Pair : (27,85)
+Random Pair : (20,59)
+Random Pair : (61,84)
+Random Pair : (54,85)
+Random Pair : (64,4)
+Random Pair : (19,23)
+Random Pair : (35,25)
+Random Pair : (24,25)
+Random Pair : (24,68)
+Random Pair : (14,18)
+Random Pair : (75,45)
+Random Pair : (81,23)
+Random Pair : (32,71)
+Random Pair : (41,56)
+Random Pair : (74,12)
+Random Pair : (41,70)
+Random Pair : (56,63)
+Random Pair : (97,7)
+Random Pair : (6,39)
+Random Pair : (99,65)
+Random Pair : (41,90)
+Random Pair : (22,54)
+Random Pair : (67,32)
+Random Pair : (76,82)
+Random Pair : (53,43)
+Random Pair : (39,87)
+Random Pair : (63,11)
+Random Pair : (3,29)
+Random Pair : (28,15)
+Random Pair : (78,58)
+Random Pair : (4,90)
+Random Pair : (24,85)
+Random Pair : (91,21)
+Random Pair : (86,23)
+Random Pair : (62,78)
+Random Pair : (27,7)
+Random Pair : (88,30)
+Random Pair : (83,67)
+Random Pair : (23,24)
+Random Pair : (92,41)
+Random Pair : (11,76)
+Random Pair : (77,48)
+Random Pair : (45,12)
+Random Pair : (90,92)
+Random Pair : (5,50)
+Random Pair : (43,99)
+Random Pair : (69,44)
+Random Pair : (2,49)
+Random Pair : (48,22)
+Random Pair : (79,61)
+Random Pair : (91,33)
+Random Pair : (6,19)
+Random Pair : (31,62)
+Random Pair : (88,39)
+Random Pair : (30,45)
+Random Pair : (99,46)
+Random Pair : (28,19)
+Random Pair : (87,27)
+Random Pair : (38,19)
+Random Pair : (65,22)
+Random Pair : (98,72)
+Random Pair : (6,29)
+Random Pair : (61,73)
+Random Pair : (24,53)
+Random Pair : (86,76)
+Random Pair : (81,19)
+Random Pair : (69,93)
+Random Pair : (87,56)
+Random Pair : (76,63)
+Random Pair : (23,96)
+Random Pair : (89,31)
+Random Pair : (74,55)
+Random Pair : (57,88)
+Random Pair : (26,46)
+NoOfCount :99
+Pair Count :238
+"Result :99
+------------------------------------------------------------------------
+BUILD SUCCESS
+------------------------------------------------------------------------
+Total time: 5.419s
+Finished at: Tue Oct 02 22:01:27 EDT 2018
+Final Memory: 5M/243M
+------------------------------------------------------------------------

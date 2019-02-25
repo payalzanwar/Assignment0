@@ -1,0 +1,45 @@
+cd C:\Users\Payal Zanwar\Documents\NetBeansProjects\INFO6205-master; "JAVA_HOME=C:\\Program Files\\Java\\jdk1.8.0_181" cmd /c "\"\"C:\\Program Files\\NetBeans 8.0.2\\java\\maven\\bin\\mvn.bat\" -Dexec.args=\"-classpath %classpath edu.neu.coe.info6205.union_find.UnionFind\" -Dexec.executable=\"C:\\Program Files\\Java\\jdk1.8.0_181\\bin\\java.exe\" -Dexec.classpathScope=runtime -Dmaven.ext.class.path=\"C:\\Program Files\\NetBeans 8.0.2\\java\\maven-nblib\\netbeans-eventspy.jar\" -Dfile.encoding=UTF-8 org.codehaus.mojo:exec-maven-plugin:1.2.1:exec\""
+Running NetBeans Compile On Save execution. Phase execution is skipped and output directories of dependency projects (with Compile on Save turned on) will be used instead of their jar artifacts.
+Scanning for projects...
+                                                                        
+------------------------------------------------------------------------
+Building INFO6205 1
+------------------------------------------------------------------------
+
+--- exec-maven-plugin:1.2.1:exec (default-cli) @ INFO6205 ---
+Enter no of sites
+10
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Random Pair : (7,1)
+Random Pair : (3,8)
+Random Pair : (2,9)
+Random Pair : (3,4)
+Random Pair : (3,9)
+Random Pair : (8,4)
+Random Pair : (7,1)
+Random Pair : (8,3)
+Random Pair : (5,8)
+Random Pair : (1,7)
+Random Pair : (2,4)
+Random Pair : (7,4)
+Random Pair : (0,4)
+Random Pair : (7,6)
+NoOfCount :9
+Pair Count :14
+"Result :9
+------------------------------------------------------------------------
+BUILD SUCCESS
+------------------------------------------------------------------------
+Total time: 3.118s
+Finished at: Tue Oct 02 22:02:02 EDT 2018
+Final Memory: 5M/243M
+------------------------------------------------------------------------
